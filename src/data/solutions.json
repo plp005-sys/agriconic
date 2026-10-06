@@ -1,0 +1,62 @@
+[
+  {
+    "id": "sol-borehole",
+    "slug": "borehole-water-supply",
+    "title": "Borehole & Water Supply",
+    "summary": "Reliable water lifted from source and delivered where it's needed.",
+    "description": "For farms and estates drawing water from a borehole or well, the right submersible pump, rising main and control gear determine how reliably water reaches your storage tank or field. We match pump curves to borehole depth, yield and your required flow rate.",
+    "image": "/images/categories/pumps.jpg",
+    "categories": ["pumps", "pipes", "fittings"],
+    "tags": ["borehole", "water-supply", "submersible", "solar-pump"]
+  },
+  {
+    "id": "sol-field-irrigation",
+    "slug": "field-irrigation",
+    "title": "Field Irrigation",
+    "summary": "Even water distribution across open field crops.",
+    "description": "Row crops and open fields need consistent, uniform water application without excessive labour. We help you combine mainline pipe, risers and sprinklers or drip laterals into a system sized correctly for your plot.",
+    "image": "/images/categories/irrigation-systems.jpg",
+    "categories": ["irrigation-systems", "sprinklers", "pipes"],
+    "tags": ["field-irrigation", "smallholder", "commercial-field", "drip"]
+  },
+  {
+    "id": "sol-commercial-agriculture",
+    "slug": "commercial-agriculture",
+    "title": "Commercial Agriculture",
+    "summary": "Higher-capacity equipment for larger-scale operations.",
+    "description": "Commercial growers need equipment that performs under sustained use — higher-capacity pumps, larger-diameter mainline and systems engineered for long operating hours across the growing season.",
+    "image": "/images/categories/agricultural-equipment.jpg",
+    "categories": ["pumps", "irrigation-systems", "agricultural-equipment"],
+    "tags": ["commercial-field", "high-capacity", "long-distance"]
+  },
+  {
+    "id": "sol-sprinkler-irrigation",
+    "slug": "sprinkler-irrigation",
+    "title": "Sprinkler Irrigation",
+    "summary": "Impact, rotary and micro sprinklers for precise coverage.",
+    "description": "From pasture and lawns to orchards and vegetable beds, choosing the right sprinkler type, spacing and operating pressure determines how evenly your crop is watered and how efficiently you use every litre.",
+    "image": "/images/categories/sprinklers.jpg",
+    "categories": ["sprinklers", "fittings", "pipes"],
+    "tags": ["sprinkler-irrigation", "orchard", "lawn", "pasture"]
+  },
+  {
+    "id": "sol-water-distribution",
+    "slug": "water-distribution",
+    "title": "Water Distribution",
+    "summary": "Moving water efficiently across large or uneven terrain.",
+    "description": "Moving water over long distances or across elevation changes requires correctly sized pipe, booster pumping and pressure-rated fittings. We help plan networks that minimise pressure loss and pipe stress.",
+    "image": "/images/categories/pipes.jpg",
+    "categories": ["pipes", "fittings", "pumps"],
+    "tags": ["long-distance", "water-distribution", "booster"]
+  },
+  {
+    "id": "sol-custom-projects",
+    "slug": "custom-irrigation-projects",
+    "title": "Custom Irrigation Projects",
+    "summary": "Complete systems designed around your land and crop.",
+    "description": "Estates, contractors and landscapers frequently need a complete irrigation build rather than individual parts. Our team helps specify a full system — pump, mainline, controllers and water application equipment — around your project.",
+    "image": "/images/store/showroom.jpg",
+    "categories": ["irrigation-systems", "pumps", "pipes", "fittings", "sprinklers"],
+    "tags": ["custom-system", "estate", "landscaping", "contractor"]
+  }
+]

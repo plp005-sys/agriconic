@@ -1,0 +1,56 @@
+[
+  {
+    "id": "cat-pumps",
+    "name": "Pumps",
+    "slug": "pumps",
+    "description": "Submersible, centrifugal, solar and diesel pumps selected for borehole supply, field irrigation and water transfer across a wide range of flow rates and heads.",
+    "shortDescription": "Water pumps and pumping solutions.",
+    "image": "/images/categories/pumps.jpg",
+    "icon": "pump"
+  },
+  {
+    "id": "cat-pipes",
+    "name": "Pipes",
+    "slug": "pipes",
+    "description": "HDPE, PVC and layflat piping for conveying water from source to field, built to handle the pressures and conditions of agricultural use.",
+    "shortDescription": "Irrigation and water conveyance solutions.",
+    "image": "/images/categories/pipes.jpg",
+    "icon": "pipe"
+  },
+  {
+    "id": "cat-fittings",
+    "name": "Fittings",
+    "slug": "fittings",
+    "description": "Valves, couplings, adapters and connectors that join and control irrigation networks, from borehole head to the last sprinkler.",
+    "shortDescription": "Connectors, valves, adapters and accessories.",
+    "image": "/images/categories/fittings.jpg",
+    "icon": "fitting"
+  },
+  {
+    "id": "cat-sprinklers",
+    "name": "Sprinklers",
+    "slug": "sprinklers",
+    "description": "Impact, micro and rotary sprinklers for even water application across field crops, orchards, lawns and pasture.",
+    "shortDescription": "Water application equipment.",
+    "image": "/images/categories/sprinklers.jpg",
+    "icon": "sprinkler"
+  },
+  {
+    "id": "cat-irrigation-systems",
+    "name": "Irrigation Systems",
+    "slug": "irrigation-systems",
+    "description": "Drip kits, center pivot components and controllers for building complete, efficient irrigation systems suited to the size of your operation.",
+    "shortDescription": "Complete irrigation solutions and components.",
+    "image": "/images/categories/irrigation-systems.jpg",
+    "icon": "system"
+  },
+  {
+    "id": "cat-agricultural-equipment",
+    "name": "Agricultural Equipment",
+    "slug": "agricultural-equipment",
+    "description": "Generators, water storage tanks and supporting equipment that keep pumping and irrigation infrastructure running reliably.",
+    "shortDescription": "Additional equipment supporting modern agricultural operations.",
+    "image": "/images/categories/agricultural-equipment.jpg",
+    "icon": "equipment"
+  }
+]

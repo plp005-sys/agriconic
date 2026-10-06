@@ -1,0 +1,3203 @@
+[
+  {
+    "id": "p-001",
+    "name": "Submersible Borehole Pump 4\" 1.5HP",
+    "slug": "submersible-pump-4in-1-5hp",
+    "category": "pumps",
+    "subcategory": "Submersible Pumps",
+    "shortDescription": "Compact 4-inch submersible pump for domestic and small-farm borehole supply.",
+    "description": "A compact 4-inch submersible pump suited to small to medium boreholes, lifting water for household, livestock and smallholder irrigation use. Stainless steel construction resists corrosion in continuous submerged operation.",
+    "application": [
+      "Borehole water supply",
+      "Smallholder irrigation",
+      "Domestic water supply"
+    ],
+    "featured": true,
+    "images": [
+      "/images/categories/pumps.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Flow Rate",
+        "value": "2.5 m³/h"
+      },
+      {
+        "label": "Head",
+        "value": "Up to 60 m"
+      },
+      {
+        "label": "Power",
+        "value": "1.5 HP / 1.1 kW"
+      },
+      {
+        "label": "Inlet Size",
+        "value": "4 inch borehole fit"
+      },
+      {
+        "label": "Outlet Size",
+        "value": "32 mm"
+      },
+      {
+        "label": "Material",
+        "value": "Stainless steel housing"
+      },
+      {
+        "label": "Operating Pressure",
+        "value": "Up to 6 bar"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "1.5 HP / 1.1 kW",
+        "detail": "Standard duty"
+      },
+      {
+        "id": "v2",
+        "name": "2 HP / 1.5 kW",
+        "detail": "Higher flow variant"
+      }
+    ],
+    "tags": [
+      "borehole",
+      "water-supply",
+      "submersible",
+      "smallholder"
+    ],
+    "relatedProducts": [
+      "submersible-pump-6in-5hp",
+      "solar-submersible-pump-dc",
+      "hdpe-pipe-pn10-63mm"
+    ]
+  },
+  {
+    "id": "p-002",
+    "name": "Submersible Borehole Pump 6\" 5HP",
+    "slug": "submersible-pump-6in-5hp",
+    "category": "pumps",
+    "subcategory": "Submersible Pumps",
+    "shortDescription": "Heavy-duty 6-inch submersible pump for deeper boreholes and higher-volume supply.",
+    "description": "Built for deeper boreholes and higher daily water demand, this 6-inch submersible pump supports commercial farms, estates and multi-point water supply schemes requiring sustained output.",
+    "application": [
+      "Borehole water supply",
+      "Commercial agriculture",
+      "Estate water supply"
+    ],
+    "featured": true,
+    "images": [
+      "/images/categories/pumps.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Flow Rate",
+        "value": "8 m³/h"
+      },
+      {
+        "label": "Head",
+        "value": "Up to 120 m"
+      },
+      {
+        "label": "Power",
+        "value": "5 HP / 3.7 kW"
+      },
+      {
+        "label": "Inlet Size",
+        "value": "6 inch borehole fit"
+      },
+      {
+        "label": "Outlet Size",
+        "value": "50 mm"
+      },
+      {
+        "label": "Material",
+        "value": "Stainless steel / cast iron"
+      },
+      {
+        "label": "Operating Pressure",
+        "value": "Up to 12 bar"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "5 HP / 3.7 kW"
+      },
+      {
+        "id": "v2",
+        "name": "7.5 HP / 5.5 kW",
+        "detail": "High-capacity variant"
+      }
+    ],
+    "tags": [
+      "borehole",
+      "water-supply",
+      "submersible",
+      "commercial-field",
+      "high-capacity"
+    ],
+    "relatedProducts": [
+      "submersible-pump-4in-1-5hp",
+      "centrifugal-pump-3in-diesel",
+      "hdpe-pipe-pn10-110mm"
+    ]
+  },
+  {
+    "id": "p-003",
+    "name": "Centrifugal Pump 2\" Petrol Engine",
+    "slug": "centrifugal-pump-2in-petrol",
+    "category": "pumps",
+    "subcategory": "Centrifugal Pumps",
+    "shortDescription": "Portable petrol-driven centrifugal pump for surface water transfer and field irrigation.",
+    "description": "A portable, self-priming centrifugal pump powered by a petrol engine. Suited to drawing water from rivers, dams and storage tanks for field irrigation where mains power is unavailable.",
+    "application": [
+      "Field irrigation",
+      "Surface water transfer",
+      "Emergency water supply"
+    ],
+    "featured": false,
+    "images": [
+      "/images/categories/pumps.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Flow Rate",
+        "value": "30 m³/h"
+      },
+      {
+        "label": "Head",
+        "value": "Up to 28 m"
+      },
+      {
+        "label": "Power",
+        "value": "5.5 HP petrol engine"
+      },
+      {
+        "label": "Inlet Size",
+        "value": "2 inch"
+      },
+      {
+        "label": "Outlet Size",
+        "value": "2 inch"
+      },
+      {
+        "label": "Material",
+        "value": "Cast aluminium body"
+      },
+      {
+        "label": "Operating Pressure",
+        "value": "Up to 2.8 bar"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "2 inch / 5.5 HP"
+      },
+      {
+        "id": "v2",
+        "name": "3 inch / 6.5 HP",
+        "detail": "Higher flow variant"
+      }
+    ],
+    "tags": [
+      "field-irrigation",
+      "smallholder",
+      "surface-water"
+    ],
+    "relatedProducts": [
+      "centrifugal-pump-3in-diesel",
+      "layflat-hose-4in",
+      "suction-hose-3in"
+    ]
+  },
+  {
+    "id": "p-004",
+    "name": "Centrifugal Pump 3\" Diesel Engine",
+    "slug": "centrifugal-pump-3in-diesel",
+    "category": "pumps",
+    "subcategory": "Centrifugal Pumps",
+    "shortDescription": "High-output diesel centrifugal pump for long field shifts and large water volumes.",
+    "description": "A diesel-powered self-priming centrifugal pump designed for high-volume field irrigation and water transfer over long operating hours, where fuel economy and continuous duty matter.",
+    "application": [
+      "Field irrigation",
+      "Commercial agriculture",
+      "Water transfer"
+    ],
+    "featured": true,
+    "images": [
+      "/images/categories/pumps.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Flow Rate",
+        "value": "65 m³/h"
+      },
+      {
+        "label": "Head",
+        "value": "Up to 32 m"
+      },
+      {
+        "label": "Power",
+        "value": "10 HP diesel engine"
+      },
+      {
+        "label": "Inlet Size",
+        "value": "3 inch"
+      },
+      {
+        "label": "Outlet Size",
+        "value": "3 inch"
+      },
+      {
+        "label": "Material",
+        "value": "Cast iron body"
+      },
+      {
+        "label": "Operating Pressure",
+        "value": "Up to 3.2 bar"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "3 inch / 10 HP"
+      },
+      {
+        "id": "v2",
+        "name": "4 inch / 16 HP",
+        "detail": "High-capacity variant"
+      }
+    ],
+    "tags": [
+      "field-irrigation",
+      "commercial-field",
+      "high-capacity",
+      "long-distance"
+    ],
+    "relatedProducts": [
+      "submersible-pump-6in-5hp",
+      "hdpe-pipe-pn10-110mm",
+      "diesel-generator-20kva"
+    ]
+  },
+  {
+    "id": "p-005",
+    "name": "Solar Submersible Pump DC Kit",
+    "slug": "solar-submersible-pump-dc",
+    "category": "pumps",
+    "subcategory": "Solar Pumps",
+    "shortDescription": "Solar-powered submersible pump kit for off-grid borehole and tank-filling applications.",
+    "description": "A DC submersible pump paired with a solar panel array, built for off-grid farms needing reliable borehole or well water supply without ongoing fuel or grid electricity costs.",
+    "application": [
+      "Borehole water supply",
+      "Off-grid farms",
+      "Tank filling"
+    ],
+    "featured": true,
+    "images": [
+      "/images/categories/pumps.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Flow Rate",
+        "value": "3.2 m³/h"
+      },
+      {
+        "label": "Head",
+        "value": "Up to 70 m"
+      },
+      {
+        "label": "Power",
+        "value": "900W solar array"
+      },
+      {
+        "label": "Inlet Size",
+        "value": "4 inch borehole fit"
+      },
+      {
+        "label": "Outlet Size",
+        "value": "32 mm"
+      },
+      {
+        "label": "Material",
+        "value": "Stainless steel housing"
+      },
+      {
+        "label": "Operating Pressure",
+        "value": "Up to 7 bar"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "900W panel array"
+      },
+      {
+        "id": "v2",
+        "name": "1500W panel array",
+        "detail": "Deeper borehole / higher flow"
+      }
+    ],
+    "tags": [
+      "borehole",
+      "water-supply",
+      "submersible",
+      "solar-pump",
+      "off-grid"
+    ],
+    "relatedProducts": [
+      "submersible-pump-4in-1-5hp",
+      "water-storage-tank-5000l",
+      "irrigation-controller-digital"
+    ]
+  },
+  {
+    "id": "p-006",
+    "name": "Booster Pump Single Phase",
+    "slug": "booster-pump-single-phase",
+    "category": "pumps",
+    "subcategory": "Booster Pumps",
+    "shortDescription": "Compact pressure-boosting pump for sprinkler and drip system pressure support.",
+    "description": "A single-phase electric booster pump that raises line pressure for sprinkler and drip systems fed from tanks or low-pressure sources, ensuring consistent application across the field.",
+    "application": [
+      "Pressure boosting",
+      "Sprinkler irrigation",
+      "Drip irrigation support"
+    ],
+    "featured": false,
+    "images": [
+      "/images/categories/pumps.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Flow Rate",
+        "value": "6 m³/h"
+      },
+      {
+        "label": "Head",
+        "value": "Up to 45 m"
+      },
+      {
+        "label": "Power",
+        "value": "1.1 kW single phase"
+      },
+      {
+        "label": "Inlet Size",
+        "value": "1.5 inch"
+      },
+      {
+        "label": "Outlet Size",
+        "value": "1.5 inch"
+      },
+      {
+        "label": "Material",
+        "value": "Stainless steel impeller"
+      },
+      {
+        "label": "Operating Pressure",
+        "value": "Up to 4.5 bar"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "1.1 kW"
+      },
+      {
+        "id": "v2",
+        "name": "1.5 kW",
+        "detail": "Higher pressure variant"
+      }
+    ],
+    "tags": [
+      "booster",
+      "sprinkler-irrigation",
+      "water-distribution"
+    ],
+    "relatedProducts": [
+      "impact-sprinkler-brass-full-circle",
+      "drip-irrigation-kit-1-acre",
+      "pressure-reducing-valve"
+    ]
+  },
+  {
+    "id": "p-007",
+    "name": "HDPE Pipe PN10 63mm",
+    "slug": "hdpe-pipe-pn10-63mm",
+    "category": "pipes",
+    "subcategory": "HDPE Pipes",
+    "shortDescription": "Pressure-rated HDPE pipe for mainline irrigation runs, sold per coil.",
+    "description": "PN10-rated high-density polyethylene pipe suited to mainline and sub-mainline irrigation runs. Flexible enough for coiled transport and resistant to UV degradation and soil chemicals.",
+    "application": [
+      "Field irrigation",
+      "Water distribution",
+      "Borehole to tank conveyance"
+    ],
+    "featured": false,
+    "images": [
+      "/images/categories/pipes.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Diameter",
+        "value": "63 mm"
+      },
+      {
+        "label": "Pressure Rating",
+        "value": "PN10 (10 bar)"
+      },
+      {
+        "label": "Material",
+        "value": "High-density polyethylene"
+      },
+      {
+        "label": "Standard Length",
+        "value": "100 m coil"
+      },
+      {
+        "label": "Application",
+        "value": "Buried or surface mainline"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "PN10",
+        "detail": "Standard pressure"
+      },
+      {
+        "id": "v2",
+        "name": "PN16",
+        "detail": "High pressure variant"
+      }
+    ],
+    "tags": [
+      "water-distribution",
+      "field-irrigation",
+      "borehole"
+    ],
+    "relatedProducts": [
+      "hdpe-pipe-pn10-110mm",
+      "hdpe-compression-coupling-63mm",
+      "gate-valve-2in"
+    ]
+  },
+  {
+    "id": "p-008",
+    "name": "HDPE Pipe PN10 110mm",
+    "slug": "hdpe-pipe-pn10-110mm",
+    "category": "pipes",
+    "subcategory": "HDPE Pipes",
+    "shortDescription": "Large-diameter HDPE mainline pipe for high-volume or long-distance conveyance.",
+    "description": "Large-bore HDPE pipe for higher-volume water transfer, long-distance conveyance and commercial-scale irrigation mainlines where flow capacity and pressure retention are critical.",
+    "application": [
+      "Commercial agriculture",
+      "Long-distance water transfer",
+      "Water distribution"
+    ],
+    "featured": true,
+    "images": [
+      "/images/categories/pipes.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Diameter",
+        "value": "110 mm"
+      },
+      {
+        "label": "Pressure Rating",
+        "value": "PN10 (10 bar)"
+      },
+      {
+        "label": "Material",
+        "value": "High-density polyethylene"
+      },
+      {
+        "label": "Standard Length",
+        "value": "100 m coil / 6 m lengths"
+      },
+      {
+        "label": "Application",
+        "value": "Buried mainline"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "PN10"
+      },
+      {
+        "id": "v2",
+        "name": "PN16",
+        "detail": "High pressure variant"
+      }
+    ],
+    "tags": [
+      "water-distribution",
+      "commercial-field",
+      "high-capacity",
+      "long-distance"
+    ],
+    "relatedProducts": [
+      "hdpe-pipe-pn10-63mm",
+      "centrifugal-pump-3in-diesel",
+      "non-return-valve-3in"
+    ]
+  },
+  {
+    "id": "p-009",
+    "name": "PVC Pressure Pipe Class C 50mm",
+    "slug": "pvc-pressure-pipe-class-c-50mm",
+    "category": "pipes",
+    "subcategory": "PVC Pipes",
+    "shortDescription": "Rigid PVC pressure pipe for fixed irrigation and distribution lines.",
+    "description": "Rigid Class C PVC pressure pipe suited to fixed distribution lines where a permanent, non-flexible installation is preferred over coiled HDPE.",
+    "application": [
+      "Field irrigation",
+      "Fixed distribution lines",
+      "Greenhouse supply"
+    ],
+    "featured": false,
+    "images": [
+      "/images/categories/pipes.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Diameter",
+        "value": "50 mm"
+      },
+      {
+        "label": "Pressure Rating",
+        "value": "Class C (9 bar)"
+      },
+      {
+        "label": "Material",
+        "value": "uPVC"
+      },
+      {
+        "label": "Standard Length",
+        "value": "6 m"
+      },
+      {
+        "label": "Application",
+        "value": "Above or below ground, fixed runs"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "Class C"
+      },
+      {
+        "id": "v2",
+        "name": "Class D",
+        "detail": "Higher pressure rating"
+      }
+    ],
+    "tags": [
+      "field-irrigation",
+      "smallholder",
+      "water-distribution"
+    ],
+    "relatedProducts": [
+      "pvc-pressure-pipe-class-d-75mm",
+      "gate-valve-2in",
+      "y-strainer-2in"
+    ]
+  },
+  {
+    "id": "p-010",
+    "name": "PVC Pressure Pipe Class D 75mm",
+    "slug": "pvc-pressure-pipe-class-d-75mm",
+    "category": "pipes",
+    "subcategory": "PVC Pipes",
+    "shortDescription": "Higher-pressure PVC pipe for demanding fixed irrigation networks.",
+    "description": "Class D rigid PVC pipe rated for higher operating pressure, suited to pumped mainlines and networks feeding multiple sprinkler zones.",
+    "application": [
+      "Commercial agriculture",
+      "Sprinkler irrigation",
+      "Water distribution"
+    ],
+    "featured": false,
+    "images": [
+      "/images/categories/pipes.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Diameter",
+        "value": "75 mm"
+      },
+      {
+        "label": "Pressure Rating",
+        "value": "Class D (12.5 bar)"
+      },
+      {
+        "label": "Material",
+        "value": "uPVC"
+      },
+      {
+        "label": "Standard Length",
+        "value": "6 m"
+      },
+      {
+        "label": "Application",
+        "value": "Pumped mainlines"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "75 mm"
+      },
+      {
+        "id": "v2",
+        "name": "90 mm",
+        "detail": "Larger diameter variant"
+      }
+    ],
+    "tags": [
+      "commercial-field",
+      "sprinkler-irrigation",
+      "water-distribution"
+    ],
+    "relatedProducts": [
+      "pvc-pressure-pipe-class-c-50mm",
+      "impact-sprinkler-brass-full-circle",
+      "pressure-reducing-valve"
+    ]
+  },
+  {
+    "id": "p-011",
+    "name": "Layflat Delivery Hose 4\"",
+    "slug": "layflat-hose-4in",
+    "category": "pipes",
+    "subcategory": "Layflat Hose",
+    "shortDescription": "Flexible PVC layflat hose for temporary delivery runs from pump to field.",
+    "description": "Reinforced PVC layflat hose that rolls flat for easy transport and storage, ideal for temporary delivery lines from a pump to the field during the irrigation season.",
+    "application": [
+      "Field irrigation",
+      "Temporary water transfer",
+      "Seasonal setups"
+    ],
+    "featured": false,
+    "images": [
+      "/images/categories/pipes.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Diameter",
+        "value": "4 inch (100 mm)"
+      },
+      {
+        "label": "Pressure Rating",
+        "value": "Up to 6 bar"
+      },
+      {
+        "label": "Material",
+        "value": "Reinforced PVC"
+      },
+      {
+        "label": "Standard Length",
+        "value": "50 m / 100 m rolls"
+      },
+      {
+        "label": "Application",
+        "value": "Surface-laid temporary runs"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "3 inch"
+      },
+      {
+        "id": "v2",
+        "name": "4 inch"
+      },
+      {
+        "id": "v3",
+        "name": "6 inch",
+        "detail": "High flow variant"
+      }
+    ],
+    "tags": [
+      "field-irrigation",
+      "smallholder",
+      "water-distribution"
+    ],
+    "relatedProducts": [
+      "centrifugal-pump-2in-petrol",
+      "camlock-coupling-2in",
+      "suction-hose-3in"
+    ]
+  },
+  {
+    "id": "p-012",
+    "name": "Reinforced Suction Hose 3\"",
+    "slug": "suction-hose-3in",
+    "category": "pipes",
+    "subcategory": "Suction Hose",
+    "shortDescription": "Spiral-reinforced suction hose for drawing water into surface pumps.",
+    "description": "Spiral-reinforced PVC suction hose that resists collapsing under vacuum, used on the inlet side of centrifugal pumps drawing from rivers, dams or tanks.",
+    "application": [
+      "Surface water transfer",
+      "Field irrigation",
+      "Pump intake lines"
+    ],
+    "featured": false,
+    "images": [
+      "/images/categories/pipes.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Diameter",
+        "value": "3 inch (75 mm)"
+      },
+      {
+        "label": "Pressure Rating",
+        "value": "Vacuum rated"
+      },
+      {
+        "label": "Material",
+        "value": "Spiral-reinforced PVC"
+      },
+      {
+        "label": "Standard Length",
+        "value": "3 m / 5 m sections"
+      },
+      {
+        "label": "Application",
+        "value": "Pump suction / intake side"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "2 inch"
+      },
+      {
+        "id": "v2",
+        "name": "3 inch"
+      }
+    ],
+    "tags": [
+      "field-irrigation",
+      "surface-water"
+    ],
+    "relatedProducts": [
+      "centrifugal-pump-2in-petrol",
+      "centrifugal-pump-3in-diesel",
+      "camlock-coupling-2in"
+    ]
+  },
+  {
+    "id": "p-013",
+    "name": "Gate Valve 2\"",
+    "slug": "gate-valve-2in",
+    "category": "fittings",
+    "subcategory": "Valves",
+    "shortDescription": "Manual isolation valve for controlling flow in mainline irrigation runs.",
+    "description": "A durable gate valve used to isolate or control sections of an irrigation mainline for maintenance, zoning or seasonal shut-off.",
+    "application": [
+      "Field irrigation",
+      "Water distribution",
+      "System isolation"
+    ],
+    "featured": false,
+    "images": [
+      "/images/categories/fittings.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Size",
+        "value": "2 inch (50 mm)"
+      },
+      {
+        "label": "Material",
+        "value": "PVC body, brass stem"
+      },
+      {
+        "label": "Operating Pressure",
+        "value": "Up to 10 bar"
+      },
+      {
+        "label": "Connection",
+        "value": "Threaded BSP"
+      },
+      {
+        "label": "Application",
+        "value": "Mainline isolation"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "1.5 inch"
+      },
+      {
+        "id": "v2",
+        "name": "2 inch"
+      },
+      {
+        "id": "v3",
+        "name": "3 inch",
+        "detail": "Larger mainline variant"
+      }
+    ],
+    "tags": [
+      "water-distribution",
+      "field-irrigation"
+    ],
+    "relatedProducts": [
+      "non-return-valve-3in",
+      "hdpe-pipe-pn10-63mm",
+      "y-strainer-2in"
+    ]
+  },
+  {
+    "id": "p-014",
+    "name": "Non-Return Valve 3\"",
+    "slug": "non-return-valve-3in",
+    "category": "fittings",
+    "subcategory": "Valves",
+    "shortDescription": "Check valve preventing backflow on pump discharge lines.",
+    "description": "A spring-loaded check valve fitted on the discharge side of a pump to prevent backflow and protect the pump from water hammer when the system shuts down.",
+    "application": [
+      "Borehole water supply",
+      "Field irrigation",
+      "Pump protection"
+    ],
+    "featured": false,
+    "images": [
+      "/images/categories/fittings.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Size",
+        "value": "3 inch (75 mm)"
+      },
+      {
+        "label": "Material",
+        "value": "Cast iron / PVC options"
+      },
+      {
+        "label": "Operating Pressure",
+        "value": "Up to 12 bar"
+      },
+      {
+        "label": "Connection",
+        "value": "Flanged or threaded"
+      },
+      {
+        "label": "Application",
+        "value": "Pump discharge line"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "2 inch"
+      },
+      {
+        "id": "v2",
+        "name": "3 inch"
+      },
+      {
+        "id": "v3",
+        "name": "4 inch"
+      }
+    ],
+    "tags": [
+      "borehole",
+      "field-irrigation",
+      "water-distribution"
+    ],
+    "relatedProducts": [
+      "gate-valve-2in",
+      "centrifugal-pump-3in-diesel",
+      "submersible-pump-6in-5hp"
+    ]
+  },
+  {
+    "id": "p-015",
+    "name": "HDPE Compression Coupling 63mm",
+    "slug": "hdpe-compression-coupling-63mm",
+    "category": "fittings",
+    "subcategory": "Couplings",
+    "shortDescription": "Compression fitting for joining HDPE pipe sections without welding.",
+    "description": "A compression coupling that joins HDPE pipe lengths securely without specialist welding equipment, suited to on-site repairs and quick assembly in the field.",
+    "application": [
+      "Field irrigation",
+      "Water distribution",
+      "Pipe repair"
+    ],
+    "featured": false,
+    "images": [
+      "/images/categories/fittings.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Size",
+        "value": "63 mm"
+      },
+      {
+        "label": "Material",
+        "value": "PP compression body"
+      },
+      {
+        "label": "Operating Pressure",
+        "value": "Up to 16 bar"
+      },
+      {
+        "label": "Connection",
+        "value": "Compression fit, no welding"
+      },
+      {
+        "label": "Application",
+        "value": "HDPE pipe joining and repair"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "32 mm"
+      },
+      {
+        "id": "v2",
+        "name": "50 mm"
+      },
+      {
+        "id": "v3",
+        "name": "63 mm"
+      },
+      {
+        "id": "v4",
+        "name": "110 mm"
+      }
+    ],
+    "tags": [
+      "water-distribution",
+      "field-irrigation"
+    ],
+    "relatedProducts": [
+      "hdpe-pipe-pn10-63mm",
+      "hdpe-pipe-pn10-110mm",
+      "gate-valve-2in"
+    ]
+  },
+  {
+    "id": "p-016",
+    "name": "Camlock Coupling Set 2\"",
+    "slug": "camlock-coupling-2in",
+    "category": "fittings",
+    "subcategory": "Couplings",
+    "shortDescription": "Quick-release coupling set for fast connection of hoses and pipes.",
+    "description": "A quick-release camlock coupling set allowing hoses and pipe sections to be connected and disconnected rapidly without tools, ideal for mobile pumping setups.",
+    "application": [
+      "Field irrigation",
+      "Temporary water transfer",
+      "Mobile pump setups"
+    ],
+    "featured": false,
+    "images": [
+      "/images/categories/fittings.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Size",
+        "value": "2 inch (50 mm)"
+      },
+      {
+        "label": "Material",
+        "value": "Aluminium / polypropylene"
+      },
+      {
+        "label": "Operating Pressure",
+        "value": "Up to 8 bar"
+      },
+      {
+        "label": "Connection",
+        "value": "Quick-release camlock"
+      },
+      {
+        "label": "Application",
+        "value": "Hose-to-hose, hose-to-pump"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "1.5 inch"
+      },
+      {
+        "id": "v2",
+        "name": "2 inch"
+      },
+      {
+        "id": "v3",
+        "name": "3 inch"
+      }
+    ],
+    "tags": [
+      "field-irrigation",
+      "smallholder"
+    ],
+    "relatedProducts": [
+      "layflat-hose-4in",
+      "suction-hose-3in",
+      "centrifugal-pump-2in-petrol"
+    ]
+  },
+  {
+    "id": "p-017",
+    "name": "Pressure Reducing Valve",
+    "slug": "pressure-reducing-valve",
+    "category": "fittings",
+    "subcategory": "Valves",
+    "shortDescription": "Regulates downstream pressure to protect drip and micro-irrigation equipment.",
+    "description": "A pressure reducing valve that maintains safe, consistent downstream pressure, protecting drip lines, micro-sprinklers and emitters from pressure spikes.",
+    "application": [
+      "Drip irrigation",
+      "Sprinkler irrigation",
+      "System protection"
+    ],
+    "featured": false,
+    "images": [
+      "/images/categories/fittings.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Size",
+        "value": "1 inch / 1.5 inch"
+      },
+      {
+        "label": "Material",
+        "value": "Brass / polymer body"
+      },
+      {
+        "label": "Inlet Pressure",
+        "value": "Up to 16 bar"
+      },
+      {
+        "label": "Outlet Pressure",
+        "value": "Adjustable 1–4 bar"
+      },
+      {
+        "label": "Application",
+        "value": "Drip and micro-irrigation zones"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "1 inch"
+      },
+      {
+        "id": "v2",
+        "name": "1.5 inch"
+      }
+    ],
+    "tags": [
+      "sprinkler-irrigation",
+      "water-distribution",
+      "booster"
+    ],
+    "relatedProducts": [
+      "drip-irrigation-kit-1-acre",
+      "booster-pump-single-phase",
+      "micro-sprinkler-kit"
+    ]
+  },
+  {
+    "id": "p-018",
+    "name": "Y-Strainer Filter 2\"",
+    "slug": "y-strainer-2in",
+    "category": "fittings",
+    "subcategory": "Filters",
+    "shortDescription": "In-line strainer protecting pumps and emitters from debris.",
+    "description": "A Y-pattern strainer fitted ahead of pumps, sprinklers or drip systems to filter out sediment and debris drawn from open water sources or storage tanks.",
+    "application": [
+      "Borehole water supply",
+      "Drip irrigation",
+      "Equipment protection"
+    ],
+    "featured": false,
+    "images": [
+      "/images/categories/fittings.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Size",
+        "value": "2 inch (50 mm)"
+      },
+      {
+        "label": "Material",
+        "value": "PVC body, mesh screen"
+      },
+      {
+        "label": "Mesh Rating",
+        "value": "80–120 mesh"
+      },
+      {
+        "label": "Operating Pressure",
+        "value": "Up to 10 bar"
+      },
+      {
+        "label": "Application",
+        "value": "Pre-pump and pre-emitter filtration"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "1 inch"
+      },
+      {
+        "id": "v2",
+        "name": "2 inch"
+      },
+      {
+        "id": "v3",
+        "name": "3 inch"
+      }
+    ],
+    "tags": [
+      "borehole",
+      "field-irrigation",
+      "water-distribution"
+    ],
+    "relatedProducts": [
+      "drip-irrigation-kit-1-acre",
+      "gate-valve-2in",
+      "submersible-pump-4in-1-5hp"
+    ]
+  },
+  {
+    "id": "p-019",
+    "name": "Impact Sprinkler Brass Full Circle",
+    "slug": "impact-sprinkler-brass-full-circle",
+    "category": "sprinklers",
+    "subcategory": "Impact Sprinklers",
+    "shortDescription": "Durable brass impact sprinkler for full-circle field coverage.",
+    "description": "A heavy-duty brass impact sprinkler delivering full-circle coverage for open field crops, pasture and orchards, built for long service life under continuous outdoor use.",
+    "application": [
+      "Field irrigation",
+      "Pasture irrigation",
+      "Orchard irrigation"
+    ],
+    "featured": true,
+    "images": [
+      "/images/categories/sprinklers.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Flow Rate",
+        "value": "1.8–3.4 m³/h"
+      },
+      {
+        "label": "Operating Pressure",
+        "value": "2–4 bar"
+      },
+      {
+        "label": "Coverage Radius",
+        "value": "Up to 18 m"
+      },
+      {
+        "label": "Material",
+        "value": "Brass body"
+      },
+      {
+        "label": "Inlet Size",
+        "value": "0.75 inch"
+      },
+      {
+        "label": "Application",
+        "value": "Full-circle field coverage"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "Full circle"
+      },
+      {
+        "id": "v2",
+        "name": "Part circle",
+        "detail": "Adjustable arc"
+      }
+    ],
+    "tags": [
+      "sprinkler-irrigation",
+      "field-irrigation",
+      "orchard",
+      "pasture"
+    ],
+    "relatedProducts": [
+      "impact-sprinkler-plastic-part-circle",
+      "pvc-pressure-pipe-class-d-75mm",
+      "booster-pump-single-phase"
+    ]
+  },
+  {
+    "id": "p-020",
+    "name": "Impact Sprinkler Plastic Part Circle",
+    "slug": "impact-sprinkler-plastic-part-circle",
+    "category": "sprinklers",
+    "subcategory": "Impact Sprinklers",
+    "shortDescription": "Lightweight adjustable-arc sprinkler for borders and irregular plots.",
+    "description": "A lightweight, cost-effective impact sprinkler with an adjustable arc, suited to border areas, smaller plots and irregular field shapes where full-circle coverage isn't needed.",
+    "application": [
+      "Smallholder irrigation",
+      "Lawn irrigation",
+      "Border areas"
+    ],
+    "featured": false,
+    "images": [
+      "/images/categories/sprinklers.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Flow Rate",
+        "value": "0.8–1.6 m³/h"
+      },
+      {
+        "label": "Operating Pressure",
+        "value": "1.5–3 bar"
+      },
+      {
+        "label": "Coverage Radius",
+        "value": "Up to 12 m"
+      },
+      {
+        "label": "Material",
+        "value": "Reinforced plastic body"
+      },
+      {
+        "label": "Inlet Size",
+        "value": "0.5 inch"
+      },
+      {
+        "label": "Application",
+        "value": "Adjustable arc coverage"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "Standard"
+      },
+      {
+        "id": "v2",
+        "name": "Long range",
+        "detail": "Extended radius"
+      }
+    ],
+    "tags": [
+      "sprinkler-irrigation",
+      "smallholder",
+      "lawn"
+    ],
+    "relatedProducts": [
+      "impact-sprinkler-brass-full-circle",
+      "mini-sprinkler-stake-kit",
+      "pvc-pressure-pipe-class-c-50mm"
+    ]
+  },
+  {
+    "id": "p-021",
+    "name": "Micro Sprinkler Kit",
+    "slug": "micro-sprinkler-kit",
+    "category": "sprinklers",
+    "subcategory": "Micro Sprinklers",
+    "shortDescription": "Low-flow micro sprinkler kit for orchard and greenhouse application.",
+    "description": "A micro sprinkler kit designed for low-flow, targeted water application around tree crops, greenhouse beds and nurseries, complete with stake, riser and spinner.",
+    "application": [
+      "Orchard irrigation",
+      "Greenhouse irrigation",
+      "Nursery irrigation"
+    ],
+    "featured": false,
+    "images": [
+      "/images/categories/sprinklers.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Flow Rate",
+        "value": "40–120 L/h"
+      },
+      {
+        "label": "Operating Pressure",
+        "value": "1–2.5 bar"
+      },
+      {
+        "label": "Coverage Radius",
+        "value": "1.5–4 m"
+      },
+      {
+        "label": "Material",
+        "value": "UV-stabilised plastic"
+      },
+      {
+        "label": "Connection",
+        "value": "4–6 mm microtube"
+      },
+      {
+        "label": "Application",
+        "value": "Targeted low-flow application"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "Pack of 25"
+      },
+      {
+        "id": "v2",
+        "name": "Pack of 100"
+      }
+    ],
+    "tags": [
+      "orchard",
+      "sprinkler-irrigation",
+      "drip"
+    ],
+    "relatedProducts": [
+      "drip-irrigation-kit-half-acre",
+      "pressure-reducing-valve",
+      "fertigation-venturi-kit"
+    ]
+  },
+  {
+    "id": "p-022",
+    "name": "Rotary Gear-Drive Sprinkler",
+    "slug": "rotary-gear-drive-sprinkler",
+    "category": "sprinklers",
+    "subcategory": "Rotary Sprinklers",
+    "shortDescription": "Quiet gear-driven rotary sprinkler for lawns, estates and amenity areas.",
+    "description": "A smooth, gear-driven rotary sprinkler offering quieter operation and even distribution, suited to lawns, estate grounds and amenity landscaping.",
+    "application": [
+      "Lawn irrigation",
+      "Estate landscaping",
+      "Amenity irrigation"
+    ],
+    "featured": false,
+    "images": [
+      "/images/categories/sprinklers.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Flow Rate",
+        "value": "0.5–2.2 m³/h"
+      },
+      {
+        "label": "Operating Pressure",
+        "value": "2–4.5 bar"
+      },
+      {
+        "label": "Coverage Radius",
+        "value": "Up to 15 m"
+      },
+      {
+        "label": "Material",
+        "value": "Reinforced plastic, gear-driven"
+      },
+      {
+        "label": "Inlet Size",
+        "value": "0.75 inch"
+      },
+      {
+        "label": "Application",
+        "value": "Lawn and landscaping zones"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "Pop-up"
+      },
+      {
+        "id": "v2",
+        "name": "Above-ground stake"
+      }
+    ],
+    "tags": [
+      "lawn",
+      "sprinkler-irrigation",
+      "estate",
+      "landscaping"
+    ],
+    "relatedProducts": [
+      "impact-sprinkler-plastic-part-circle",
+      "irrigation-controller-digital",
+      "pvc-pressure-pipe-class-c-50mm"
+    ]
+  },
+  {
+    "id": "p-023",
+    "name": "Center Pivot Sprinkler Package",
+    "slug": "pivot-sprinkler-package",
+    "category": "sprinklers",
+    "subcategory": "Pivot Sprinklers",
+    "shortDescription": "Spray and rotator package engineered for center pivot spans.",
+    "description": "A matched set of spray heads and rotators engineered for mounting along a center pivot span, delivering uniform application across large circular fields.",
+    "application": [
+      "Commercial agriculture",
+      "Center pivot irrigation",
+      "Large-field coverage"
+    ],
+    "featured": false,
+    "images": [
+      "/images/categories/sprinklers.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Flow Rate",
+        "value": "Varies by nozzle size"
+      },
+      {
+        "label": "Operating Pressure",
+        "value": "1–3 bar"
+      },
+      {
+        "label": "Mounting",
+        "value": "Pivot span drop or boom"
+      },
+      {
+        "label": "Material",
+        "value": "UV-stabilised plastic"
+      },
+      {
+        "label": "Application",
+        "value": "Center pivot spans"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "Spray plate package"
+      },
+      {
+        "id": "v2",
+        "name": "Rotator package",
+        "detail": "Reduced runoff on slopes"
+      }
+    ],
+    "tags": [
+      "commercial-field",
+      "sprinkler-irrigation",
+      "high-capacity"
+    ],
+    "relatedProducts": [
+      "center-pivot-system-compact",
+      "hdpe-pipe-pn10-110mm",
+      "centrifugal-pump-3in-diesel"
+    ]
+  },
+  {
+    "id": "p-024",
+    "name": "Mini Sprinkler Stake Kit",
+    "slug": "mini-sprinkler-stake-kit",
+    "category": "sprinklers",
+    "subcategory": "Micro Sprinklers",
+    "shortDescription": "Entry-level stake-mounted sprinkler kit for home gardens and small beds.",
+    "description": "An affordable stake-mounted mini sprinkler kit for home gardens, nursery beds and small-scale vegetable plots requiring simple, low-cost water application.",
+    "application": [
+      "Smallholder irrigation",
+      "Home gardens",
+      "Nursery beds"
+    ],
+    "featured": false,
+    "images": [
+      "/images/categories/sprinklers.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Flow Rate",
+        "value": "60–150 L/h"
+      },
+      {
+        "label": "Operating Pressure",
+        "value": "1–2 bar"
+      },
+      {
+        "label": "Coverage Radius",
+        "value": "1–3 m"
+      },
+      {
+        "label": "Material",
+        "value": "Plastic, stake-mounted"
+      },
+      {
+        "label": "Application",
+        "value": "Small bed and garden coverage"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "Pack of 10"
+      },
+      {
+        "id": "v2",
+        "name": "Pack of 50"
+      }
+    ],
+    "tags": [
+      "smallholder",
+      "sprinkler-irrigation"
+    ],
+    "relatedProducts": [
+      "micro-sprinkler-kit",
+      "drip-irrigation-kit-half-acre",
+      "layflat-hose-4in"
+    ]
+  },
+  {
+    "id": "p-025",
+    "name": "Drip Irrigation Kit — Half Acre",
+    "slug": "drip-irrigation-kit-half-acre",
+    "category": "irrigation-systems",
+    "subcategory": "Drip Irrigation Kits",
+    "shortDescription": "Complete drip kit sized for a half-acre smallholder plot.",
+    "description": "A complete drip irrigation kit sized for a half-acre plot, including driplines, mainline connectors, filter and basic control valve — everything a smallholder needs to start drip irrigation.",
+    "application": [
+      "Smallholder irrigation",
+      "Vegetable farming",
+      "Water-efficient irrigation"
+    ],
+    "featured": true,
+    "images": [
+      "/images/categories/irrigation-systems.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Coverage Area",
+        "value": "0.5 acre"
+      },
+      {
+        "label": "Dripline Spacing",
+        "value": "30 cm emitter spacing"
+      },
+      {
+        "label": "Operating Pressure",
+        "value": "1–2 bar"
+      },
+      {
+        "label": "Filter Included",
+        "value": "Disc filter, 120 mesh"
+      },
+      {
+        "label": "Application",
+        "value": "Row crop and vegetable beds"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "Gravity-fed kit"
+      },
+      {
+        "id": "v2",
+        "name": "Pump-fed kit",
+        "detail": "Includes booster pump option"
+      }
+    ],
+    "tags": [
+      "smallholder",
+      "field-irrigation",
+      "drip"
+    ],
+    "relatedProducts": [
+      "drip-irrigation-kit-1-acre",
+      "y-strainer-2in",
+      "booster-pump-single-phase"
+    ]
+  },
+  {
+    "id": "p-026",
+    "name": "Drip Irrigation Kit — 1 Acre",
+    "slug": "drip-irrigation-kit-1-acre",
+    "category": "irrigation-systems",
+    "subcategory": "Drip Irrigation Kits",
+    "shortDescription": "Expanded drip kit for one-acre commercial vegetable or fruit plots.",
+    "description": "A full-acre drip irrigation kit with heavier-gauge mainline, pressure-compensating driplines and a fertigation-ready layout for commercial vegetable and fruit production.",
+    "application": [
+      "Commercial agriculture",
+      "Vegetable farming",
+      "Fruit production"
+    ],
+    "featured": true,
+    "images": [
+      "/images/categories/irrigation-systems.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Coverage Area",
+        "value": "1 acre"
+      },
+      {
+        "label": "Dripline Spacing",
+        "value": "30 cm / 40 cm options"
+      },
+      {
+        "label": "Operating Pressure",
+        "value": "1.5–2.5 bar"
+      },
+      {
+        "label": "Filter Included",
+        "value": "Disc filter, 120 mesh"
+      },
+      {
+        "label": "Application",
+        "value": "Commercial row crop production"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "Standard dripline"
+      },
+      {
+        "id": "v2",
+        "name": "Pressure-compensating dripline",
+        "detail": "For uneven terrain"
+      }
+    ],
+    "tags": [
+      "commercial-field",
+      "field-irrigation",
+      "drip"
+    ],
+    "relatedProducts": [
+      "drip-irrigation-kit-half-acre",
+      "fertigation-venturi-kit",
+      "pressure-reducing-valve"
+    ]
+  },
+  {
+    "id": "p-027",
+    "name": "Compact Center Pivot System",
+    "slug": "center-pivot-system-compact",
+    "category": "irrigation-systems",
+    "subcategory": "Center Pivot Systems",
+    "shortDescription": "Entry-scale center pivot system for medium commercial fields.",
+    "description": "A compact center pivot irrigation system scaled for medium commercial fields, combining a galvanized steel span, drive units and sprinkler package into one coordinated system.",
+    "application": [
+      "Commercial agriculture",
+      "Large-field irrigation",
+      "Row crop production"
+    ],
+    "featured": true,
+    "images": [
+      "/images/categories/irrigation-systems.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Coverage Area",
+        "value": "10–40 hectares (configurable)"
+      },
+      {
+        "label": "Span Material",
+        "value": "Galvanized steel"
+      },
+      {
+        "label": "Drive",
+        "value": "Electric drive units per tower"
+      },
+      {
+        "label": "Power",
+        "value": "Three-phase, generator-compatible"
+      },
+      {
+        "label": "Application",
+        "value": "Circular field irrigation"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "4-tower span"
+      },
+      {
+        "id": "v2",
+        "name": "6-tower span",
+        "detail": "Larger field coverage"
+      }
+    ],
+    "tags": [
+      "commercial-field",
+      "high-capacity",
+      "custom-system"
+    ],
+    "relatedProducts": [
+      "pivot-sprinkler-package",
+      "diesel-generator-20kva",
+      "hdpe-pipe-pn10-110mm"
+    ]
+  },
+  {
+    "id": "p-028",
+    "name": "Digital Irrigation Controller",
+    "slug": "irrigation-controller-digital",
+    "category": "irrigation-systems",
+    "subcategory": "Controllers",
+    "shortDescription": "Programmable controller for scheduling multi-zone irrigation runs.",
+    "description": "A programmable digital controller that automates irrigation scheduling across multiple zones, reducing labour and improving water-use consistency across the growing season.",
+    "application": [
+      "Field irrigation",
+      "Greenhouse irrigation",
+      "Estate landscaping"
+    ],
+    "featured": false,
+    "images": [
+      "/images/categories/irrigation-systems.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Zones",
+        "value": "4, 8 or 12-zone models"
+      },
+      {
+        "label": "Power",
+        "value": "AC with battery backup"
+      },
+      {
+        "label": "Programs",
+        "value": "Multiple independent schedules"
+      },
+      {
+        "label": "Enclosure",
+        "value": "Weatherproof outdoor rated"
+      },
+      {
+        "label": "Application",
+        "value": "Multi-zone scheduling"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "4-zone"
+      },
+      {
+        "id": "v2",
+        "name": "8-zone"
+      },
+      {
+        "id": "v3",
+        "name": "12-zone",
+        "detail": "Larger estate systems"
+      }
+    ],
+    "tags": [
+      "custom-system",
+      "estate",
+      "sprinkler-irrigation"
+    ],
+    "relatedProducts": [
+      "rotary-gear-drive-sprinkler",
+      "drip-irrigation-kit-1-acre",
+      "booster-pump-single-phase"
+    ]
+  },
+  {
+    "id": "p-029",
+    "name": "Standard Sprinkler System Kit",
+    "slug": "sprinkler-system-kit-standard",
+    "category": "irrigation-systems",
+    "subcategory": "Sprinkler Systems",
+    "shortDescription": "Pre-matched mainline, risers and sprinklers for a ready-to-install zone.",
+    "description": "A pre-matched kit of mainline pipe, risers, fittings and sprinklers sized to cover a defined field zone, reducing the guesswork of component selection for a first system.",
+    "application": [
+      "Field irrigation",
+      "Pasture irrigation",
+      "Smallholder irrigation"
+    ],
+    "featured": false,
+    "images": [
+      "/images/categories/irrigation-systems.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Coverage Area",
+        "value": "1 hectare (configurable)"
+      },
+      {
+        "label": "Includes",
+        "value": "Mainline, risers, sprinklers, fittings"
+      },
+      {
+        "label": "Operating Pressure",
+        "value": "2–4 bar"
+      },
+      {
+        "label": "Application",
+        "value": "Single-zone field coverage"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "0.5 ha kit"
+      },
+      {
+        "id": "v2",
+        "name": "1 ha kit"
+      },
+      {
+        "id": "v3",
+        "name": "2 ha kit"
+      }
+    ],
+    "tags": [
+      "field-irrigation",
+      "smallholder",
+      "sprinkler-irrigation",
+      "custom-system"
+    ],
+    "relatedProducts": [
+      "impact-sprinkler-brass-full-circle",
+      "pvc-pressure-pipe-class-d-75mm",
+      "booster-pump-single-phase"
+    ]
+  },
+  {
+    "id": "p-030",
+    "name": "Fertigation Venturi Kit",
+    "slug": "fertigation-venturi-kit",
+    "category": "irrigation-systems",
+    "subcategory": "Fertigation",
+    "shortDescription": "Venturi injector kit for applying fertilizer through drip or sprinkler lines.",
+    "description": "A venturi-based fertigation injector kit that draws liquid fertilizer into the irrigation line, allowing nutrients to be applied precisely alongside scheduled watering.",
+    "application": [
+      "Commercial agriculture",
+      "Drip irrigation",
+      "Greenhouse production"
+    ],
+    "featured": false,
+    "images": [
+      "/images/categories/irrigation-systems.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Injection Rate",
+        "value": "0.2–2% adjustable"
+      },
+      {
+        "label": "Connection",
+        "value": "1 inch bypass assembly"
+      },
+      {
+        "label": "Material",
+        "value": "Corrosion-resistant polymer"
+      },
+      {
+        "label": "Operating Pressure",
+        "value": "1.5–4 bar"
+      },
+      {
+        "label": "Application",
+        "value": "In-line fertilizer injection"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "Standard venturi"
+      },
+      {
+        "id": "v2",
+        "name": "Bypass tank kit",
+        "detail": "Includes mixing tank"
+      }
+    ],
+    "tags": [
+      "commercial-field",
+      "drip",
+      "custom-system"
+    ],
+    "relatedProducts": [
+      "drip-irrigation-kit-1-acre",
+      "micro-sprinkler-kit",
+      "pressure-reducing-valve"
+    ]
+  },
+  {
+    "id": "p-031",
+    "name": "Diesel Generator 10kVA",
+    "slug": "diesel-generator-10kva",
+    "category": "agricultural-equipment",
+    "subcategory": "Generators",
+    "shortDescription": "Standby diesel generator sized for single pump or small irrigation setups.",
+    "description": "A 10kVA diesel generator sized to run a single borehole pump or small irrigation setup, providing backup power where grid electricity is unreliable or unavailable.",
+    "application": [
+      "Borehole water supply",
+      "Backup power",
+      "Off-grid farms"
+    ],
+    "featured": false,
+    "images": [
+      "/images/categories/agricultural-equipment.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Output",
+        "value": "10 kVA"
+      },
+      {
+        "label": "Fuel Type",
+        "value": "Diesel"
+      },
+      {
+        "label": "Phase",
+        "value": "Single or three-phase"
+      },
+      {
+        "label": "Frame",
+        "value": "Open or silent canopy"
+      },
+      {
+        "label": "Application",
+        "value": "Pump and small load backup"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "Open frame"
+      },
+      {
+        "id": "v2",
+        "name": "Silent canopy",
+        "detail": "Reduced noise"
+      }
+    ],
+    "tags": [
+      "borehole",
+      "off-grid"
+    ],
+    "relatedProducts": [
+      "diesel-generator-20kva",
+      "submersible-pump-6in-5hp",
+      "solar-submersible-pump-dc"
+    ]
+  },
+  {
+    "id": "p-032",
+    "name": "Diesel Generator 20kVA",
+    "slug": "diesel-generator-20kva",
+    "category": "agricultural-equipment",
+    "subcategory": "Generators",
+    "shortDescription": "Higher-capacity generator for center pivot and multi-pump operations.",
+    "description": "A 20kVA diesel generator with the capacity to run center pivot systems, larger pumps or multiple simultaneous loads across a commercial farm operation.",
+    "application": [
+      "Commercial agriculture",
+      "Center pivot irrigation",
+      "Backup power"
+    ],
+    "featured": false,
+    "images": [
+      "/images/categories/agricultural-equipment.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Output",
+        "value": "20 kVA"
+      },
+      {
+        "label": "Fuel Type",
+        "value": "Diesel"
+      },
+      {
+        "label": "Phase",
+        "value": "Three-phase"
+      },
+      {
+        "label": "Frame",
+        "value": "Silent canopy"
+      },
+      {
+        "label": "Application",
+        "value": "Multi-load commercial backup"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "20 kVA"
+      },
+      {
+        "id": "v2",
+        "name": "30 kVA",
+        "detail": "Higher capacity variant"
+      }
+    ],
+    "tags": [
+      "commercial-field",
+      "high-capacity"
+    ],
+    "relatedProducts": [
+      "center-pivot-system-compact",
+      "centrifugal-pump-3in-diesel",
+      "diesel-generator-10kva"
+    ]
+  },
+  {
+    "id": "p-033",
+    "name": "Water Storage Tank 5,000L",
+    "slug": "water-storage-tank-5000l",
+    "category": "agricultural-equipment",
+    "subcategory": "Water Tanks",
+    "shortDescription": "Durable polyethylene tank for farm and household water storage.",
+    "description": "A UV-stabilised polyethylene water tank providing reliable on-site storage for borehole, rain or municipal water ahead of irrigation or household use.",
+    "application": [
+      "Borehole water supply",
+      "Smallholder irrigation",
+      "Household storage"
+    ],
+    "featured": false,
+    "images": [
+      "/images/categories/agricultural-equipment.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Capacity",
+        "value": "5,000 litres"
+      },
+      {
+        "label": "Material",
+        "value": "UV-stabilised polyethylene"
+      },
+      {
+        "label": "Shape",
+        "value": "Vertical cylindrical"
+      },
+      {
+        "label": "Outlet",
+        "value": "50 mm standard outlet"
+      },
+      {
+        "label": "Application",
+        "value": "Above-ground water storage"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "5,000 L"
+      },
+      {
+        "id": "v2",
+        "name": "10,000 L",
+        "detail": "Larger capacity variant"
+      }
+    ],
+    "tags": [
+      "borehole",
+      "smallholder"
+    ],
+    "relatedProducts": [
+      "water-storage-tank-10000l",
+      "solar-submersible-pump-dc",
+      "submersible-pump-4in-1-5hp"
+    ]
+  },
+  {
+    "id": "p-034",
+    "name": "Water Storage Tank 10,000L",
+    "slug": "water-storage-tank-10000l",
+    "category": "agricultural-equipment",
+    "subcategory": "Water Tanks",
+    "shortDescription": "Large-capacity storage tank for commercial farms and estates.",
+    "description": "A large-capacity polyethylene tank suited to commercial farms, estates and multi-point supply schemes needing a substantial on-site water reserve.",
+    "application": [
+      "Commercial agriculture",
+      "Estate water supply",
+      "Buffer storage"
+    ],
+    "featured": false,
+    "images": [
+      "/images/categories/agricultural-equipment.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Capacity",
+        "value": "10,000 litres"
+      },
+      {
+        "label": "Material",
+        "value": "UV-stabilised polyethylene"
+      },
+      {
+        "label": "Shape",
+        "value": "Vertical cylindrical"
+      },
+      {
+        "label": "Outlet",
+        "value": "63 mm standard outlet"
+      },
+      {
+        "label": "Application",
+        "value": "Commercial buffer storage"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "10,000 L"
+      },
+      {
+        "id": "v2",
+        "name": "20,000 L",
+        "detail": "Larger capacity variant"
+      }
+    ],
+    "tags": [
+      "commercial-field",
+      "estate"
+    ],
+    "relatedProducts": [
+      "water-storage-tank-5000l",
+      "submersible-pump-6in-5hp",
+      "diesel-generator-20kva"
+    ]
+  },
+  {
+    "id": "p-035",
+    "name": "Knapsack Sprayer 16L",
+    "slug": "knapsack-sprayer-16l",
+    "category": "agricultural-equipment",
+    "subcategory": "Field Tools",
+    "shortDescription": "Manual backpack sprayer for crop protection and foliar feeding.",
+    "description": "A manual 16-litre knapsack sprayer for applying crop protection products, foliar feeds and herbicides across smallholder and medium-sized plots.",
+    "application": [
+      "Smallholder irrigation",
+      "Crop protection",
+      "Foliar feeding"
+    ],
+    "featured": false,
+    "images": [
+      "/images/categories/agricultural-equipment.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Tank Capacity",
+        "value": "16 litres"
+      },
+      {
+        "label": "Operation",
+        "value": "Manual lever pump"
+      },
+      {
+        "label": "Material",
+        "value": "HDPE tank"
+      },
+      {
+        "label": "Nozzle",
+        "value": "Adjustable cone nozzle"
+      },
+      {
+        "label": "Application",
+        "value": "Backpack-carried field spraying"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "16 L manual"
+      },
+      {
+        "id": "v2",
+        "name": "16 L battery-assisted",
+        "detail": "Reduced manual pumping"
+      }
+    ],
+    "tags": [
+      "smallholder"
+    ],
+    "relatedProducts": [
+      "drip-irrigation-kit-half-acre",
+      "water-storage-tank-5000l",
+      "sprinkler-system-kit-standard"
+    ]
+  },
+  {
+    "id": "p-036",
+    "name": "Pressure Gauge & Monitoring Kit",
+    "slug": "pressure-gauge-kit",
+    "category": "agricultural-equipment",
+    "subcategory": "Field Tools",
+    "shortDescription": "Inline pressure gauges for monitoring pump and irrigation line performance.",
+    "description": "A set of inline pressure gauges for installation at key points across an irrigation network, helping operators monitor pump performance and detect blockages or leaks early.",
+    "application": [
+      "Field irrigation",
+      "System monitoring",
+      "Preventive maintenance"
+    ],
+    "featured": false,
+    "images": [
+      "/images/categories/agricultural-equipment.jpg"
+    ],
+    "specifications": [
+      {
+        "label": "Range",
+        "value": "0–16 bar"
+      },
+      {
+        "label": "Connection",
+        "value": "0.5 inch BSP"
+      },
+      {
+        "label": "Dial Size",
+        "value": "63 mm"
+      },
+      {
+        "label": "Material",
+        "value": "Brass connection, glycerine filled"
+      },
+      {
+        "label": "Application",
+        "value": "Mainline and pump monitoring"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "Single gauge"
+      },
+      {
+        "id": "v2",
+        "name": "3-point monitoring kit"
+      }
+    ],
+    "tags": [
+      "water-distribution",
+      "field-irrigation"
+    ],
+    "relatedProducts": [
+      "gate-valve-2in",
+      "y-strainer-2in",
+      "centrifugal-pump-3in-diesel"
+    ]
+  },
+  {
+    "id": "p-037",
+    "name": "Mini Valve for Drip Irrigation",
+    "slug": "mini-valve-drip-irrigation",
+    "category": "fittings",
+    "subcategory": "Drip Line Components",
+    "shortDescription": "Strong, reliable mini valves perfect for irrigation systems.",
+    "description": "Compact mini valves designed for drip irrigation systems. Strong and reliable construction ensures leak-free performance and precise flow control for efficient irrigation.",
+    "application": [
+      "Drip irrigation",
+      "Field irrigation",
+      "Water distribution"
+    ],
+    "featured": true,
+    "images": [
+      "/images/products/mini-valve.jpg"
+    ],
+    "price": 0.4,
+    "specifications": [
+      {
+        "label": "Material",
+        "value": "High-grade plastic"
+      },
+      {
+        "label": "Application",
+        "value": "Drip irrigation systems"
+      },
+      {
+        "label": "Features",
+        "value": "Strong, reliable, leak-free"
+      }
+    ],
+    "tags": [
+      "drip",
+      "fittings",
+      "irrigation-components"
+    ],
+    "relatedProducts": [
+      "drip-rubber-seals",
+      "drip-end-caps",
+      "drip-line-2000m"
+    ],
+    "variants": []
+  },
+  {
+    "id": "p-038",
+    "name": "Drip Irrigation Rubber Seals",
+    "slug": "drip-rubber-seals",
+    "category": "fittings",
+    "subcategory": "Drip Line Components",
+    "shortDescription": "Durable rubber seals for leak-free drip irrigation performance.",
+    "description": "High-quality rubber seals designed for drip irrigation connectors. Provides durable and long-lasting seal for leak-free performance in all irrigation systems.",
+    "application": [
+      "Drip irrigation",
+      "Connector sealing",
+      "System maintenance"
+    ],
+    "featured": false,
+    "images": [
+      "/images/products/rubbers.jpg"
+    ],
+    "price": 0.1,
+    "specifications": [
+      {
+        "label": "Material",
+        "value": "Durable rubber compound"
+      },
+      {
+        "label": "Features",
+        "value": "Long-lasting, leak-free seal"
+      },
+      {
+        "label": "Application",
+        "value": "Drip irrigation connectors"
+      }
+    ],
+    "tags": [
+      "drip",
+      "fittings",
+      "irrigation-components"
+    ],
+    "relatedProducts": [
+      "mini-valve-drip-irrigation",
+      "drip-end-caps",
+      "drip-line-2000m"
+    ],
+    "variants": []
+  },
+  {
+    "id": "p-039",
+    "name": "Drip Irrigation End Caps",
+    "slug": "drip-end-caps",
+    "category": "fittings",
+    "subcategory": "Drip Line Components",
+    "shortDescription": "Secure your irrigation system with high-quality end caps.",
+    "description": "Professional-grade end caps for drip irrigation systems. Secure your irrigation system with our high-quality end caps, ensuring reliable closure and preventing water loss.",
+    "application": [
+      "Drip irrigation",
+      "System closure",
+      "Line termination"
+    ],
+    "featured": false,
+    "images": [
+      "/images/products/end-caps.jpg"
+    ],
+    "price": 0.2,
+    "specifications": [
+      {
+        "label": "Material",
+        "value": "High-density plastic"
+      },
+      {
+        "label": "Features",
+        "value": "Secure fit, prevents water loss"
+      },
+      {
+        "label": "Application",
+        "value": "Drip line termination"
+      }
+    ],
+    "tags": [
+      "drip",
+      "fittings",
+      "irrigation-components"
+    ],
+    "relatedProducts": [
+      "mini-valve-drip-irrigation",
+      "drip-rubber-seals",
+      "drip-line-2000m"
+    ],
+    "variants": []
+  },
+  {
+    "id": "p-040",
+    "name": "Drip Line 2000m, 0.2mm",
+    "slug": "drip-line-2000m",
+    "category": "irrigation-systems",
+    "subcategory": "Drip Lines",
+    "shortDescription": "High-quality 2000m drip line for efficient water distribution.",
+    "description": "Professional 2000m drip line with 0.2mm thickness. High-quality drip line for efficient and even water distribution across your irrigation system. Perfect for commercial and large-scale farming operations.",
+    "application": [
+      "Field irrigation",
+      "Commercial agriculture",
+      "Water distribution"
+    ],
+    "featured": true,
+    "images": [
+      "/images/products/drip-line.jpg"
+    ],
+    "price": 85,
+    "specifications": [
+      {
+        "label": "Length",
+        "value": "2000 meters"
+      },
+      {
+        "label": "Thickness",
+        "value": "0.2mm"
+      },
+      {
+        "label": "Features",
+        "value": "Efficient, even water distribution"
+      },
+      {
+        "label": "Application",
+        "value": "Commercial farming"
+      }
+    ],
+    "tags": [
+      "drip",
+      "irrigation-systems",
+      "commercial-field"
+    ],
+    "relatedProducts": [
+      "spray-tube-32mm",
+      "spray-tube-40mm",
+      "spray-tube-50mm"
+    ],
+    "variants": []
+  },
+  {
+    "id": "p-041",
+    "name": "Spray Tube / Rain Pipe 32mm (200m)",
+    "slug": "spray-tube-32mm",
+    "category": "irrigation-systems",
+    "subcategory": "Spray Tubes",
+    "shortDescription": "32mm spray tube for efficient watering and healthier plants.",
+    "description": "32mm spray tube (rain pipe) per 200m roll with 0.2mm thickness. Ensures efficient watering, healthier plants, and bigger harvests. Ideal for gardens and farms of all sizes.",
+    "application": [
+      "Field irrigation",
+      "Garden watering",
+      "Commercial agriculture"
+    ],
+    "featured": true,
+    "images": [
+      "/images/products/spray-tubes.jpg"
+    ],
+    "price": 20,
+    "specifications": [
+      {
+        "label": "Diameter",
+        "value": "32mm"
+      },
+      {
+        "label": "Length",
+        "value": "200 meters per roll"
+      },
+      {
+        "label": "Thickness",
+        "value": "0.2mm"
+      },
+      {
+        "label": "Features",
+        "value": "Even watering, durable, long-lasting"
+      },
+      {
+        "label": "Benefits",
+        "value": "Efficient watering, healthier plants, bigger harvests"
+      }
+    ],
+    "tags": [
+      "sprinkler-irrigation",
+      "field-irrigation",
+      "spray-tubes"
+    ],
+    "relatedProducts": [
+      "spray-tube-40mm",
+      "spray-tube-50mm",
+      "drip-line-2000m"
+    ],
+    "variants": []
+  },
+  {
+    "id": "p-042",
+    "name": "Spray Tube / Rain Pipe 40mm (150m)",
+    "slug": "spray-tube-40mm",
+    "category": "irrigation-systems",
+    "subcategory": "Spray Tubes",
+    "shortDescription": "40mm spray tube with 0.3mm thickness for reliable irrigation.",
+    "description": "40mm spray tube (rain pipe) per 150m roll with 0.3mm thickness. Durable and long-lasting with affordable prices. Perfect for medium to large-scale irrigation needs.",
+    "application": [
+      "Field irrigation",
+      "Garden watering",
+      "Commercial agriculture"
+    ],
+    "featured": true,
+    "images": [
+      "/images/products/spray-tubes.jpg"
+    ],
+    "price": 30,
+    "specifications": [
+      {
+        "label": "Diameter",
+        "value": "40mm"
+      },
+      {
+        "label": "Length",
+        "value": "150 meters per roll"
+      },
+      {
+        "label": "Thickness",
+        "value": "0.3mm"
+      },
+      {
+        "label": "Features",
+        "value": "Durable, long-lasting, affordable"
+      },
+      {
+        "label": "Benefits",
+        "value": "Ideal for gardens & farms"
+      }
+    ],
+    "tags": [
+      "sprinkler-irrigation",
+      "field-irrigation",
+      "spray-tubes"
+    ],
+    "relatedProducts": [
+      "spray-tube-32mm",
+      "spray-tube-50mm",
+      "drip-line-2000m"
+    ],
+    "variants": []
+  },
+  {
+    "id": "p-043",
+    "name": "Spray Tube / Rain Pipe 50mm (100m)",
+    "slug": "spray-tube-50mm",
+    "category": "irrigation-systems",
+    "subcategory": "Spray Tubes",
+    "shortDescription": "50mm spray tube with 0.4mm thickness for heavy-duty irrigation.",
+    "description": "50mm spray tube (rain pipe) per 100m roll with 0.4mm thickness. Heavy-duty construction for demanding irrigation applications. Ensures even watering and maximum durability.",
+    "application": [
+      "Field irrigation",
+      "Commercial agriculture",
+      "Large-scale farming"
+    ],
+    "featured": true,
+    "images": [
+      "/images/products/spray-tubes.jpg"
+    ],
+    "price": 30,
+    "specifications": [
+      {
+        "label": "Diameter",
+        "value": "50mm"
+      },
+      {
+        "label": "Length",
+        "value": "100 meters per roll"
+      },
+      {
+        "label": "Thickness",
+        "value": "0.4mm"
+      },
+      {
+        "label": "Features",
+        "value": "Heavy-duty, even watering"
+      },
+      {
+        "label": "Benefits",
+        "value": "Ideal for gardens & farms"
+      }
+    ],
+    "tags": [
+      "sprinkler-irrigation",
+      "field-irrigation",
+      "spray-tubes"
+    ],
+    "relatedProducts": [
+      "spray-tube-32mm",
+      "spray-tube-40mm",
+      "drip-line-2000m"
+    ],
+    "variants": []
+  },
+  {
+    "id": "p-044",
+    "name": "Metal Gun Sprinkler 1.5\" with Stand",
+    "slug": "metal-sprinkler-1-5-inch",
+    "category": "sprinklers",
+    "subcategory": "Metal Gun Sprinklers",
+    "shortDescription": "1.5\" premium metal sprinkler for farms, gardens & commercial use.",
+    "description": "Professional 1.5\" metal gun sprinkler with stand. High-performance irrigation for farms, gardens, and commercial use. Durable heavy-duty metal construction, built to last in tough conditions. Provides wide coverage with uniform water distribution.",
+    "application": [
+      "Farm irrigation",
+      "Garden watering",
+      "Commercial irrigation"
+    ],
+    "featured": true,
+    "images": [
+      "/images/products/metal-sprinkler-1-5.jpg"
+    ],
+    "price": 45,
+    "priceWithStand": 95,
+    "specifications": [
+      {
+        "label": "Size",
+        "value": "1.5 inch"
+      },
+      {
+        "label": "Range",
+        "value": "18-26 meters"
+      },
+      {
+        "label": "Flow Rate",
+        "value": "5.5-11.7 m³/h"
+      },
+      {
+        "label": "Pressure",
+        "value": "2.5-6.0 bar"
+      },
+      {
+        "label": "Material",
+        "value": "Heavy-duty metal"
+      },
+      {
+        "label": "Features",
+        "value": "Durable, strong & reliable, wide coverage"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "Gun only",
+        "detail": "$45"
+      },
+      {
+        "id": "v2",
+        "name": "With stand",
+        "detail": "$95"
+      }
+    ],
+    "tags": [
+      "sprinkler-irrigation",
+      "commercial-field",
+      "metal-sprinkler"
+    ],
+    "relatedProducts": [
+      "metal-sprinkler-2-inch",
+      "metal-sprinkler-2-5-inch"
+    ]
+  },
+  {
+    "id": "p-045",
+    "name": "Metal Gun Sprinkler 2\" with Stand",
+    "slug": "metal-sprinkler-2-inch",
+    "category": "sprinklers",
+    "subcategory": "Metal Gun Sprinklers",
+    "shortDescription": "2\" premium metal sprinkler for large-scale irrigation.",
+    "description": "Professional 2\" metal gun sprinkler with stand. High-performance irrigation system designed for farms, gardens, and commercial use. Heavy-duty metal construction ensures durability and reliability in all conditions. Wide coverage with uniform water distribution.",
+    "application": [
+      "Farm irrigation",
+      "Commercial agriculture",
+      "Large-scale irrigation"
+    ],
+    "featured": true,
+    "images": [
+      "/images/products/metal-sprinkler-2.jpg"
+    ],
+    "price": 60,
+    "priceWithStand": 110,
+    "specifications": [
+      {
+        "label": "Size",
+        "value": "2 inch"
+      },
+      {
+        "label": "Range",
+        "value": "24-36 meters"
+      },
+      {
+        "label": "Flow Rate",
+        "value": "24-30 m³/h"
+      },
+      {
+        "label": "Pressure",
+        "value": "2.5-6.0 bar"
+      },
+      {
+        "label": "Material",
+        "value": "Heavy-duty metal"
+      },
+      {
+        "label": "Features",
+        "value": "Built to last, wide coverage, uniform distribution"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "Gun only",
+        "detail": "$60"
+      },
+      {
+        "id": "v2",
+        "name": "With stand",
+        "detail": "$110"
+      }
+    ],
+    "tags": [
+      "sprinkler-irrigation",
+      "commercial-field",
+      "metal-sprinkler"
+    ],
+    "relatedProducts": [
+      "metal-sprinkler-1-5-inch",
+      "metal-sprinkler-2-5-inch"
+    ]
+  },
+  {
+    "id": "p-046",
+    "name": "Metal Gun Sprinkler 2.5\" with Stand",
+    "slug": "metal-sprinkler-2-5-inch",
+    "category": "sprinklers",
+    "subcategory": "Metal Gun Sprinklers",
+    "shortDescription": "2.5\" premium metal sprinkler for maximum coverage and performance.",
+    "description": "Professional 2.5\" metal gun sprinkler with stand. The largest in our range, ideal for large-scale irrigation on farms, gardens, and commercial properties. Maximum coverage with uniform water distribution. Built for durability and performance in the toughest conditions.",
+    "application": [
+      "Large-scale farming",
+      "Commercial irrigation",
+      "Estate irrigation"
+    ],
+    "featured": true,
+    "images": [
+      "/images/products/metal-sprinkler-2-5.jpg"
+    ],
+    "price": 80,
+    "priceWithStand": 130,
+    "specifications": [
+      {
+        "label": "Size",
+        "value": "2.5 inch"
+      },
+      {
+        "label": "Range",
+        "value": "28-40 meters"
+      },
+      {
+        "label": "Flow Rate",
+        "value": "18-40 m³/h"
+      },
+      {
+        "label": "Pressure",
+        "value": "2.5-6.0 bar"
+      },
+      {
+        "label": "Material",
+        "value": "Heavy-duty metal"
+      },
+      {
+        "label": "Features",
+        "value": "Ideal for large-scale irrigation, perfect for farms, gardens & commercial use"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "Gun only",
+        "detail": "$80"
+      },
+      {
+        "id": "v2",
+        "name": "With stand",
+        "detail": "$130"
+      }
+    ],
+    "tags": [
+      "sprinkler-irrigation",
+      "commercial-field",
+      "metal-sprinkler",
+      "high-capacity"
+    ],
+    "relatedProducts": [
+      "metal-sprinkler-1-5-inch",
+      "metal-sprinkler-2-inch"
+    ]
+  },
+  {
+    "id": "p-047",
+    "name": "Drip Line 2000m, 0.2mm, 30cm Spacing",
+    "slug": "drip-line-standard-30cm",
+    "category": "irrigation-systems",
+    "subcategory": "Drip Lines",
+    "shortDescription": "Standard drip line for smart irrigation and better results.",
+    "description": "Professional drip line 2000m length with 0.2mm thickness and 30cm emitter spacing. Smart irrigation solution that saves water, improves yield, and reduces costs. Consistent watering for healthy crops, built for durability and designed to perform.",
+    "application": [
+      "Field irrigation",
+      "Commercial agriculture",
+      "Water conservation"
+    ],
+    "featured": true,
+    "images": [
+      "/images/products/drip-lines.jpg"
+    ],
+    "price": 85,
+    "specifications": [
+      {
+        "label": "Length",
+        "value": "2000 meters"
+      },
+      {
+        "label": "Thickness",
+        "value": "0.2mm"
+      },
+      {
+        "label": "Emitter Spacing",
+        "value": "30cm"
+      },
+      {
+        "label": "Features",
+        "value": "Save water, improve yield, save costs"
+      },
+      {
+        "label": "Benefits",
+        "value": "Consistent watering, healthy crops, built for durability"
+      }
+    ],
+    "tags": [
+      "drip",
+      "field-irrigation",
+      "water-conservation"
+    ],
+    "relatedProducts": [
+      "drip-line-1500m-30cm",
+      "drip-line-double-emitter",
+      "drip-line-standard-50cm"
+    ],
+    "variants": []
+  },
+  {
+    "id": "p-048",
+    "name": "Drip Line 1500m, 0.3mm, 30cm Spacing",
+    "slug": "drip-line-1500m-30cm",
+    "category": "irrigation-systems",
+    "subcategory": "Drip Lines",
+    "shortDescription": "Heavy-duty drip line for reliable irrigation performance.",
+    "description": "Professional drip line 1500m length with 0.3mm thickness and 30cm emitter spacing. Heavier gauge construction for enhanced durability. Perfect for demanding irrigation applications requiring consistent, reliable performance.",
+    "application": [
+      "Field irrigation",
+      "Commercial agriculture",
+      "Water conservation"
+    ],
+    "featured": false,
+    "images": [
+      "/images/products/drip-lines.jpg"
+    ],
+    "price": 90,
+    "specifications": [
+      {
+        "label": "Length",
+        "value": "1500 meters"
+      },
+      {
+        "label": "Thickness",
+        "value": "0.3mm"
+      },
+      {
+        "label": "Emitter Spacing",
+        "value": "30cm"
+      },
+      {
+        "label": "Features",
+        "value": "Save water, improve yield, save costs"
+      },
+      {
+        "label": "Benefits",
+        "value": "Built for durability, made to perform"
+      }
+    ],
+    "tags": [
+      "drip",
+      "field-irrigation",
+      "water-conservation"
+    ],
+    "relatedProducts": [
+      "drip-line-standard-30cm",
+      "drip-line-double-emitter",
+      "drip-line-standard-50cm"
+    ],
+    "variants": []
+  },
+  {
+    "id": "p-049",
+    "name": "Drip Line Double Emitter 2000m, 0.2mm, 30cm",
+    "slug": "drip-line-double-emitter",
+    "category": "irrigation-systems",
+    "subcategory": "Drip Lines",
+    "shortDescription": "Double emitter drip line for enhanced water distribution.",
+    "description": "Advanced double emitter drip line with 2000m length, 0.2mm thickness and 30cm spacing. Dual emitters per spacing point ensure superior water distribution and redundancy. Ideal for crops requiring consistent moisture levels.",
+    "application": [
+      "Field irrigation",
+      "Commercial agriculture",
+      "Precision farming"
+    ],
+    "featured": true,
+    "images": [
+      "/images/products/drip-lines.jpg"
+    ],
+    "price": 95,
+    "specifications": [
+      {
+        "label": "Length",
+        "value": "2000 meters"
+      },
+      {
+        "label": "Thickness",
+        "value": "0.2mm"
+      },
+      {
+        "label": "Emitter Spacing",
+        "value": "30cm double emitter"
+      },
+      {
+        "label": "Features",
+        "value": "Enhanced water distribution, redundancy"
+      },
+      {
+        "label": "Benefits",
+        "value": "Consistent watering, healthy crops, grow better, grow more"
+      }
+    ],
+    "tags": [
+      "drip",
+      "field-irrigation",
+      "water-conservation",
+      "precision-farming"
+    ],
+    "relatedProducts": [
+      "drip-line-standard-30cm",
+      "drip-line-1500m-30cm",
+      "drip-line-standard-50cm"
+    ],
+    "variants": []
+  },
+  {
+    "id": "p-050",
+    "name": "Drip Line 2000m, 0.2mm, 50cm Spacing",
+    "slug": "drip-line-standard-50cm",
+    "category": "irrigation-systems",
+    "subcategory": "Drip Lines",
+    "shortDescription": "Wide-spacing drip line for row crops and orchards.",
+    "description": "Professional drip line 2000m length with 0.2mm thickness and 50cm emitter spacing. Wider spacing ideal for row crops, orchards, and plants with broader root zones. Delivers smart irrigation with water savings and improved yields.",
+    "application": [
+      "Field irrigation",
+      "Orchard irrigation",
+      "Row crops"
+    ],
+    "featured": false,
+    "images": [
+      "/images/products/drip-lines.jpg"
+    ],
+    "price": 90,
+    "specifications": [
+      {
+        "label": "Length",
+        "value": "2000 meters"
+      },
+      {
+        "label": "Thickness",
+        "value": "0.2mm"
+      },
+      {
+        "label": "Emitter Spacing",
+        "value": "50cm"
+      },
+      {
+        "label": "Features",
+        "value": "Save water, improve yield, save costs"
+      },
+      {
+        "label": "Benefits",
+        "value": "Consistent watering, healthy crops"
+      }
+    ],
+    "tags": [
+      "drip",
+      "field-irrigation",
+      "orchard",
+      "water-conservation"
+    ],
+    "relatedProducts": [
+      "drip-line-standard-30cm",
+      "drip-line-1500m-30cm",
+      "drip-line-double-emitter"
+    ],
+    "variants": []
+  },
+  {
+    "id": "p-051",
+    "name": "Shade Net 50m × 3m (40%)",
+    "slug": "shade-net-40-percent",
+    "category": "agricultural-equipment",
+    "subcategory": "Shade Nets",
+    "shortDescription": "40% shade net for vegetable greenhouses, crop cover, and nursery plants.",
+    "description": "Professional-grade shade net measuring 50m by 3m with 40% shade density. Available in white and green colors. Perfect for vegetable greenhouses, crop cover, nursery plants, and garden flowers. Reduces heat and sun damage while protecting plants and crops. Durable and long-lasting construction.",
+    "application": [
+      "Greenhouse coverage",
+      "Crop protection",
+      "Nursery shading",
+      "Garden protection"
+    ],
+    "featured": true,
+    "images": [
+      "/images/products/shade-net.jpg"
+    ],
+    "price": 120,
+    "specifications": [
+      {
+        "label": "Size",
+        "value": "50m × 3m"
+      },
+      {
+        "label": "Shade Density",
+        "value": "40%"
+      },
+      {
+        "label": "Colors",
+        "value": "White, Green"
+      },
+      {
+        "label": "Application",
+        "value": "Vegetable greenhouse, crop cover, nursery plants, garden flowers"
+      },
+      {
+        "label": "Benefits",
+        "value": "Reduces heat & sun damage, protects plants & crops, durable & long-lasting"
+      }
+    ],
+    "variants": [
+      {
+        "id": "v1",
+        "name": "White",
+        "detail": "40% shade"
+      },
+      {
+        "id": "v2",
+        "name": "Green",
+        "detail": "40% shade"
+      }
+    ],
+    "tags": [
+      "greenhouse",
+      "crop-protection",
+      "nursery",
+      "shade-net"
+    ],
+    "relatedProducts": [
+      "drip-irrigation-kit-1-acre",
+      "micro-sprinkler-kit",
+      "water-storage-tank-5000l"
+    ]
+  },
+  {
+    "id": "p-052",
+    "name": "Canvas Delivery Pipe 2½\" (50m)",
+    "slug": "canvas-pipe-2-5-inch",
+    "category": "pipes",
+    "subcategory": "Canvas Pipes",
+    "shortDescription": "Heavy-duty canvas delivery pipe for irrigation, water pumps, and fire fighting.",
+    "description": "Professional 2½-inch canvas delivery pipe, 50-meter length. Heavy-duty canvas material construction makes it strong, flexible, and reliable. Ideal for irrigation, water pumps, fire fighting, and more. Multi-purpose design suitable for various water delivery applications.",
+    "application": [
+      "Irrigation",
+      "Water pump delivery",
+      "Fire fighting",
+      "Water transfer"
+    ],
+    "featured": true,
+    "images": [
+      "/images/products/canvas-pipe.jpg"
+    ],
+    "price": 45,
+    "specifications": [
+      {
+        "label": "Size",
+        "value": "2½ inches"
+      },
+      {
+        "label": "Length",
+        "value": "50 meters"
+      },
+      {
+        "label": "Material",
+        "value": "Heavy-duty canvas"
+      },
+      {
+        "label": "Features",
+        "value": "Strong, flexible, reliable"
+      },
+      {
+        "label": "Application",
+        "value": "Irrigation, water pumps, fire fighting, etc."
+      }
+    ],
+    "tags": [
+      "field-irrigation",
+      "water-delivery",
+      "canvas-pipe",
+      "fire-fighting"
+    ],
+    "relatedProducts": [
+      "layflat-hose-4in",
+      "suction-hose-3in",
+      "centrifugal-pump-2in-petrol"
+    ],
+    "variants": []
+  },
+  {
+    "id": "p-053",
+    "name": "Reflective Safety Barrier Netting 1m × 50m",
+    "slug": "safety-barrier-netting",
+    "category": "agricultural-equipment",
+    "subcategory": "Safety Equipment",
+    "shortDescription": "High visibility reflective safety barrier netting for work sites and protection.",
+    "description": "Professional reflective safety barrier netting measuring 1m by 50m. Bright and reflective for maximum safety and high visibility. Ideal for construction sites, road works, safety demarcation, and general perimeter protection. Provides safer work sites and better protection.",
+    "application": [
+      "Construction sites",
+      "Road works",
+      "Safety demarcation",
+      "Perimeter protection"
+    ],
+    "featured": false,
+    "images": [
+      "/images/products/safety-netting.jpg"
+    ],
+    "price": 40,
+    "specifications": [
+      {
+        "label": "Size",
+        "value": "1m × 50m"
+      },
+      {
+        "label": "Material",
+        "value": "Reflective barrier netting"
+      },
+      {
+        "label": "Features",
+        "value": "High visibility, bright & reflective"
+      },
+      {
+        "label": "Application",
+        "value": "Construction sites, road works, safety demarcation, general perimeter protection"
+      },
+      {
+        "label": "Benefits",
+        "value": "Safer work sites, better protection"
+      }
+    ],
+    "tags": [
+      "safety-equipment",
+      "construction",
+      "road-works",
+      "barrier-netting"
+    ],
+    "relatedProducts": [
+      "shade-net-40-percent",
+      "canvas-pipe-2-5-inch"
+    ],
+    "variants": []
+  }
+]

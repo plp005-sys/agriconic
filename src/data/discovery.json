@@ -1,0 +1,51 @@
+[
+  {
+    "id": "d-01",
+    "label": "Irrigating a small farm",
+    "description": "Cost-effective equipment sized for smallholder plots.",
+    "tags": ["smallholder", "field-irrigation", "drip"]
+  },
+  {
+    "id": "d-02",
+    "label": "Irrigating a commercial field",
+    "description": "Higher-capacity equipment for sustained commercial use.",
+    "tags": ["commercial-field", "high-capacity"]
+  },
+  {
+    "id": "d-03",
+    "label": "Moving water over long distances",
+    "description": "Pipe, pumping and pressure equipment for long-run conveyance.",
+    "tags": ["long-distance", "water-distribution", "booster"]
+  },
+  {
+    "id": "d-04",
+    "label": "Supplying water from a borehole",
+    "description": "Submersible and solar pumps matched to borehole depth and yield.",
+    "tags": ["borehole", "water-supply", "submersible"]
+  },
+  {
+    "id": "d-05",
+    "label": "Sprinkler irrigation",
+    "description": "Impact, rotary and micro sprinklers for even coverage.",
+    "tags": ["sprinkler-irrigation", "orchard", "lawn", "pasture"]
+  },
+  {
+    "id": "d-06",
+    "label": "Water distribution across the farm",
+    "description": "Mainline, valves and fittings for reliable distribution networks.",
+    "tags": ["water-distribution"]
+  },
+  {
+    "id": "d-07",
+    "label": "Replacing an existing pump",
+    "description": "Browse the full pump range by type, flow rate and head.",
+    "tags": ["borehole", "field-irrigation", "booster"],
+    "categoryHint": "pumps"
+  },
+  {
+    "id": "d-08",
+    "label": "Building a complete irrigation system",
+    "description": "Full systems combining pumps, mainline, controllers and sprinklers.",
+    "tags": ["custom-system", "estate", "landscaping", "contractor"]
+  }
+]

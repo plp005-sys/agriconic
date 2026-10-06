@@ -1,0 +1,26 @@
+[
+  {
+    "id": "b-01",
+    "name": "Agriconic Select",
+    "slug": "agriconic-select",
+    "description": "Agriconic's in-house curated range, chosen for reliability and value across common farm applications."
+  },
+  {
+    "id": "b-02",
+    "name": "FieldForce",
+    "slug": "fieldforce",
+    "description": "Heavy-duty pumping and power equipment for sustained commercial use."
+  },
+  {
+    "id": "b-03",
+    "name": "AquaLine",
+    "slug": "aqualine",
+    "description": "Piping, fittings and water conveyance components engineered for agricultural pressure demands."
+  },
+  {
+    "id": "b-04",
+    "name": "RainArc",
+    "slug": "rainarc",
+    "description": "Sprinkler and water application equipment focused on uniform coverage and water efficiency."
+  }
+]
